@@ -29,7 +29,7 @@ i{
   animation-direction:normal;
   animation-iteration-count:20;
   animation-timing-function:linear;
-  animation-delay:4s;
+  animation-delay:2s;
   animation-fill-mode:none;
   animation-play-state:running;
 }
@@ -85,7 +85,7 @@ i{
  transform-origin: 10px -20px;
  }
 #flakes i:nth-of-type(4n+2) {
- animation-duration: 2.6s;
+ animation-duration: 4s;
  animation-iteration-count: 35;
  transform-origin: right -20px;
 }
