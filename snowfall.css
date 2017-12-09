@@ -27,7 +27,7 @@ i{
   animation-name:falling;
   animation-duration:5s;
   animation-direction:normal;
-  animation-iteration-count:20;
+  animation-iteration-count:infinite;
   animation-timing-function:linear;
   animation-delay:2s;
   animation-fill-mode:none;
